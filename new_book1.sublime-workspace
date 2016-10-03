@@ -1,0 +1,322 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Seson2/ep2_Подруги.txt",
+			"settings":
+			{
+				"buffer_size": 5036,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "git: ",
+		"selected_items":
+		[
+			[
+				"git: ",
+				"Git: Gui"
+			],
+			[
+				"git",
+				"Git: Pull"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"GIT:",
+				"Git: Commit history"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"git:",
+				"Git: Gui"
+			],
+			[
+				"git ",
+				"Git: Gui"
+			],
+			[
+				" git a",
+				"Git: Add All"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"about",
+				"About"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"tas",
+				"Tasks: New document"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 62.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Project/new_book1",
+		"/D/Project/new_book1/Seson1",
+		"/D/Project/new_book1/Seson2"
+	],
+	"file_history":
+	[
+		"/D/Project/new_book1/new_book1.sublime-project",
+		"/D/Project/new_book1/Seson2/ep2_Подруги.txt",
+		"/D/Project/new_book1/Seson2/ep1_Новый день.txt",
+		"/C/Users/demenev/AppData/Roaming/Sublime Text 3/Packages/languagetool-sublime/LanguageTool.sublime-settings",
+		"/D/Project/new_book1/Seson2/ep2_заголовок.txt",
+		"/C/Users/demenev/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXWordCount.sublime-settings",
+		"/C/Users/demenev/AppData/Roaming/Sublime Text 3/Packages/LaTeX Word Count/LaTeXWordCount.sublime-settings",
+		"/C/Users/demenev/Pictures/chrome_2016-09-28_14-25-04.jpg",
+		"/D/Users/Snull/Documents/Project/new_book1/Seson2/ep1_Новый день.txt",
+		"/D/Users/Snull/Documents/Project/new_book1/story.todo",
+		"/D/Soft/Mahou/readme.txt",
+		"/D/Users/Snull/Documents/Project/new_book1/Seson1/ep1_Добро пожаловать.txt",
+		"/D/Users/Snull/Documents/Project/new_book1/Seson1/ep3_Чаевые уже включены.txt",
+		"/D/Users/Snull/Documents/Project/new_book1/Seson1/ep2_Какая свадьба без драки.txt",
+		"/D/Users/Snull/Documents/Project/new_book1/Seson1/ep6_Выгодный контракт.txt",
+		"/D/Users/Snull/Documents/Project/new_book1/Seson1/ep5_Под маской.txt",
+		"/D/Users/Snull/Documents/Project/new_book1/Seson1/ep4_Высокое напряжение.txt",
+		"/C/Users/Snull/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/Users/Snull/Documents/Project/new_book1/Seson1/ep4_Переживая запредельное.txt",
+		"/D/Users/Snull/Documents/Project/new_book1/Seson1/ep4_Вызов брошен.txt",
+		"/d/Users/Snull/Documents/Project/new_book1/Seson1/ep4_Вызов брошен.txt",
+		"/d/Users/Snull/Documents/Project/new_book1/Seson1/ep4_без названия.txt",
+		"/C/Users/Snull/AppData/Roaming/Sublime Text 3/Packages/languagetool-sublime/LanguageTool.sublime-settings",
+		"/C/Users/Snull/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/C/Users/Snull/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/C/Users/Snull/AppData/Roaming/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/D/Users/Snull/Documents/BasicProgramming/myFirstGame/interaction.js",
+		"/D/Users/Snull/Documents/BasicProgramming/myFirstGame/logic.js"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" \n",
+			"!\n",
+			"тоу",
+			"мерсе",
+			"ноги",
+			"ее",
+			" ",
+			"started"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Seson2/ep2_Подруги.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5036,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1648,
+								1648
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 773,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "new_book1.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
