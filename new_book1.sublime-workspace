@@ -8,10 +8,19 @@
 	"buffers":
 	[
 		{
-			"file": "Seson2/ep2_Подруги.txt",
+			"contents": "какой-то очень случайный текст: !\"№;%:?*()_+/\\=-}\"?{:>.;[]'/\nкакой-то очень случайный текст: !\"№;%:?*()_+/\\=-}\"?{:>.;[]'/\nкакой-то очень случайный текст: !\"№;%:?*()_+/\\=-}\"?{:>.;[]'/\nкакой-то очень случайный текст: !\"№;%:?*()_+/\\=-}\"?{:>.;[]'/\nкакой-то очень случайный текст: !\"№;%:?*()_+/\\=-}\"?{:>.;[]'/\nкакой-то очень случайный текст: !\"№;%:?*()_+/\\=-}\"?{:>.;[]'/\nкакой-то очень случайный текст: !\"№;%:?*()_+/\\=-}\"?{:>.;[]'/\nкакой-то очень случайный текст: !\"№;%:?*()_+/\\=-}\"?{:>.;[]'/\nкакой-то очень случайный текст: !\"№;%:?*()_+/\\=-}\"?{:>.;[]'/\nкакой-то очень случайный текст: !\"№;%:?*()_+/\\=-}\"?{:>.;[]'/\nкакой-то очень случайный текст: !\"№;%:?*()_+/\\=-}\"?{:>.;[]'/\nкакой-то очень случайный текст: !\"№;%:?*()_+/\\=-}\"?{:>.;[]'/",
 			"settings":
 			{
-				"buffer_size": 5036,
+				"buffer_size": 731,
+				"line_ending": "Windows",
+				"name": "какой-то очень случайный текст: !\"№;%:?*()_+/\\=-}\""
+			}
+		},
+		{
+			"file": "/C/Users/demenev/Desktop/testing.todo",
+			"settings":
+			{
+				"buffer_size": 711,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -118,14 +127,34 @@
 	},
 	"expanded_folders":
 	[
-		"/D/Project/new_book1",
 		"/D/Project/new_book1/Seson1",
 		"/D/Project/new_book1/Seson2"
 	],
 	"file_history":
 	[
-		"/D/Project/new_book1/new_book1.sublime-project",
+		"/D/Job/sahi_pulscen/common_functions.sah",
+		"/D/Job/sahi_pulscen/common_data.sah",
+		"/D/Job/sahi_pulscen/base/redirect.sah",
+		"/D/Job/sahi_pulscen/base/create_product.sah",
+		"/C/Users/demenev/Desktop/test",
+		"/C/Users/demenev/Downloads/products_report.csv",
+		"/C/Users/demenev/Downloads/new_report_context_ad (5).csv",
+		"/C/Users/demenev/Downloads/new_report_context_ad (4).csv",
+		"/C/Users/demenev/Downloads/new_report_context_ad (3).csv",
+		"/C/Users/demenev/Downloads/yml/DemTest.xml",
+		"/C/Users/demenev/Downloads/yml/level4.xml",
+		"/C/Users/demenev/Downloads/demtest-ekb.pc.knife.exp.railsc.ru-1476279873780.log",
+		"/C/Users/demenev/Downloads/www.pc.knife.exp.railsc.ru-1476281083343.log",
+		"/C/Users/demenev/Downloads/demtest-ekb.pc.knife.exp.railsc.ru-1476279327748.log",
+		"/D/Job/sahi_pulscen/firms.suite",
+		"/C/Users/demenev/Documents/read_write запросы.todo",
+		"/C/Users/demenev/Documents/тест_подсказки.txt",
+		"/D/Job/sahi_pulscen/products.suite",
+		"/D/Job/sahi_pulscen/index.suite",
+		"/D/Job/sahi_pulscen/base.suite",
+		"/C/Users/demenev/Documents/тест_подсказки",
 		"/D/Project/new_book1/Seson2/ep2_Подруги.txt",
+		"/D/Project/new_book1/new_book1.sublime-project",
 		"/D/Project/new_book1/Seson2/ep1_Новый день.txt",
 		"/C/Users/demenev/AppData/Roaming/Sublime Text 3/Packages/languagetool-sublime/LanguageTool.sublime-settings",
 		"/D/Project/new_book1/Seson2/ep2_заголовок.txt",
@@ -169,6 +198,37 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Труба бесшовная 10",
+			"set_rubric",
+			"http://admin.test3-pulscen.ru/",
+			"http://admin.test3-pulscen.ru/search_log",
+			"99483486",
+			"9",
+			"500 ошибка",
+			"404 -- Not Found",
+			"500 -- Internal Server Error",
+			"404 -- Not Found",
+			"here",
+			"500 -- Internal Server Error",
+			"404 -- Not Found",
+			"404",
+			"offer id",
+			"//span[@itemprop='price']",
+			"смотрим товар",
+			"//смотрим товар в листинге",
+			"\";\n",
+			"98318770",
+			"company",
+			"company_id",
+			"navigateTo($baseUrl + '/firms/' + $companyId, true);",
+			"  _navigateTo($baseUrl + '/firms/' + $companyId, true);",
+			"_navigateTo(\"http://www.test3-pulscen.ru\"",
+			"_navigateTo(\"http://www.test3-pulscen.ru\" + '/firms/' + \"98318770\", true);",
+			"текст",
+			"#",
+			"###.##",
+			"###.0",
+			"111",
 			" \n",
 			"!\n",
 			"тоу",
@@ -184,6 +244,13 @@
 		"regex": false,
 		"replace_history":
 		[
+			"1",
+			"500 -- Internal Server Error",
+			"какой-то очень случайный текст: !\"№;%:?*()_+/\\=-}\"?{:>.;[]'/",
+			"*",
+			"###",
+			"###.##",
+			"###"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -194,24 +261,23 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "Seson2/ep2_Подруги.txt",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5036,
+						"buffer_size": 731,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1648,
-								1648
+								0,
+								60
 							]
 						],
 						"settings":
@@ -219,13 +285,51 @@
 							"WordCount":
 							{
 								"changes": 0,
-								"count": 773,
+								"count": 60,
 								"modified": false,
 								"selection": false,
 								"status": -1,
 								"syntax": "plain text"
 							},
+							"auto_name": "какой-то очень случайный текст: !\"№;%:?*()_+/\\=-}\"",
 							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/demenev/Desktop/testing.todo",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 711,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								336,
+								336
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 391,
+								"count": 67,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"syntax": "Packages/PlainTasks/PlainTasks.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -272,11 +376,15 @@
 	{
 		"height": 0.0
 	},
+	"output.languagetool":
+	{
+		"height": 132.0
+	},
 	"pinned_build_system": "",
 	"project": "new_book1.sublime-project",
 	"replace":
 	{
-		"height": 52.0
+		"height": 68.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -314,7 +422,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 252.0,
+	"side_bar_width": 240.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
